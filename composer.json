@@ -7,9 +7,12 @@
     "require": {
         "php": "^8.0.2",
         "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^9.19",
+        "laravel/framework": "^9.19.0",
         "laravel/sanctum": "^3.0",
-        "laravel/tinker": "^2.7"
+        "laravel/tinker": "^2.7",
+        "laravel/jetstream": "v2.16.1",
+        "livewire/livewire": "v2.11.2",
+        "doctrine/dbal" : "4.0.x-dev"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
